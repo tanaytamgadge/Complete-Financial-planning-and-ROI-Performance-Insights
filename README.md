@@ -16,6 +16,7 @@ The "Complete Budget Allocation & ROI Performance Insights" project is an Excel-
 
 - Microsoft Excel (Version 2016 or later recommended)
 - Basic knowledge of Excel functions and data analysis
+- Power latest version
 
 ## Usage
 
